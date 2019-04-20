@@ -1,0 +1,22 @@
+{
+  "name": "js_grammatical_sugar",
+  "version": "1.0.0",
+  "description": "这是js的语法糖.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LDmin/js_grammatical_sugar.git"
+  },
+  "keywords": [
+    "js语法糖"
+  ],
+  "author": "ludongmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LDmin/js_grammatical_sugar/issues"
+  },
+  "homepage": "https://github.com/LDmin/js_grammatical_sugar#readme"
+}
