@@ -1,6 +1,6 @@
 {
   "name": "js_grammatical_sugar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "这是js的语法糖.",
   "main": "index.js",
   "scripts": {
